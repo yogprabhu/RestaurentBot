@@ -1,2 +1,2 @@
 # RestaurentBot
-Restaurant Bot for Jumper
+Restaurant Bot for Seat booking
