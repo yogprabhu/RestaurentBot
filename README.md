@@ -1,2 +1,2 @@
 # RestaurentBot
-Restaurant Bot for Seat booking
+Restaurant Bot for Table booking
